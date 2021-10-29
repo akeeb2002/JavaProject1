@@ -1,8 +1,5 @@
 //Name: Khandaker Hossain
 //Lab 11A-Li
-//This is a Java Project that takes the numbers from a text file and
-//prints them as dates in the order of oldest to newest in a GUI
-
 
 import java.io.IOException;
 /**
